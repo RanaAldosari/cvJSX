@@ -51,7 +51,7 @@ improving the user experience.
 <p>OCT 2024 – NOV 2024
 </p>
 </div>
-<p></p>
+<p>• A program for building artificial intelligence applications using Python Gpytr, and through it I created a project to recognize emotions through facial features.</p>
 
 <h5 className="title">Projects</h5>
 <hr></hr>
