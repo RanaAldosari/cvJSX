@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 3%;
+}
+.container{
+    text-align: center;
+}
+.textAbout{
+    font-size: 1rem;
+}
+.title{
+    font-size: 1rem;
+}
+.contentContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.listItem{
+    display: flex;
+    justify-content: space-between;
+}
