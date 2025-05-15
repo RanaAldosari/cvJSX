@@ -19,7 +19,7 @@ Bachelor’s Computer Science ,Prince Sattam bin Abdulaziz University.
 </p>
 <p>Aug 2020 – Aug 2024</p>
 </div>
-<p>• Relevant coursework includes Web Development, Database Systems, Machine Learning, Data Structures, Algorithms.
+<p className="textAbout">• Relevant coursework includes Web Development, Database Systems, Machine Learning, Data Structures, Algorithms.
 GPA: 4.86 / 5</p>
 <h6 className="title">Experience</h6>
 <hr></hr>
@@ -29,7 +29,7 @@ GPA: 4.86 / 5</p>
 <p>June 2023 – Aug 2023
 </p>
 </div>
-<p>• During my COOP training at KACST, I had the opportunity to work in the Computer Science department, where I gained
+<p className="textAbout">• During my COOP training at KACST, I had the opportunity to work in the Computer Science department, where I gained
 valuable experience in several key areas, including UI/UX design, software and web development, cybersecurity, and
 networking.
 </p>
@@ -39,7 +39,7 @@ networking.
 <p>July 2024 – Aug 2024
 </p>
 </div>
-<p>• During my train at Hash Camp, I gained valuable experience in software development, focusing on web design and
+<p className="textAbout">• During my train at Hash Camp, I gained valuable experience in software development, focusing on web design and
 development. I learned how to create dynamic and interactive websites using HTML, CSS, and JavaScript. I designed an
 attractive and responsive login page using JavaScript, which enhanced my skills in creating dynamic user interfaces and
 improving the user experience.
@@ -51,7 +51,7 @@ improving the user experience.
 <p>OCT 2024 – NOV 2024
 </p>
 </div>
-<p>• A program for building artificial intelligence applications using Python Gpytr, and through it I created a project to recognize emotions through facial features.</p>
+<p className="textAbout">• A program for building artificial intelligence applications using Python Gpytr, and through it I created a project to recognize emotions through facial features.</p>
 
 <h5 className="title">Projects</h5>
 <hr></hr>
@@ -59,7 +59,7 @@ improving the user experience.
 <h5><b>Fusion OCR </b> , (Graduation project)
 </h5>
 </div>
-<p>• A mobile application designed for recognizing handwriting and converting it into a digital format, Aiming to bridge the gap
+<p className="textAbout">• A mobile application designed for recognizing handwriting and converting it into a digital format, Aiming to bridge the gap
 between traditional handwriting and the digital world. It utilizes Deep Learning Technologies and Artificial Intelligence to
 create a robust recognition system. The user is allowed to capture, edit, and store text.
 </p>
@@ -68,7 +68,7 @@ create a robust recognition system. The user is allowed to capture, edit, and st
 <h5><b>TO-DO-List </b> 
 </h5>
 </div>
-<p>• An interactive website aimed at managing tasks, It is created using HTML CSS and JavaScript ,The user can write, edit and
+<p className="textAbout">• An interactive website aimed at managing tasks, It is created using HTML CSS and JavaScript ,The user can write, edit and
 delete a task after completing it.
 </p>
 
@@ -77,7 +77,7 @@ delete a task after completing it.
 </b> 
 </h5>
 </div>
-<p>• An interactive website to display prayer times according to cities, The times change when the user changes the city, using
+<p className="textAbout">• An interactive website to display prayer times according to cities, The times change when the user changes the city, using
 HTML CSS JavaScript and API
 </p>
 
@@ -86,7 +86,7 @@ HTML CSS JavaScript and API
 </b> 
 </h5>
 </div>
-<p>• In this project, I developed a website using HTML, CSS, JavaScript, and React. I collaborated closely with a dedicated team
+<p className="textAbout">• In this project, I developed a website using HTML, CSS, JavaScript, and React. I collaborated closely with a dedicated team
 of volunteers and stakeholders to understand their vision and needs. This experience enhanced my technical skills and
 fostered effective communication and teamwork in a dynamic environment.
 </p>
